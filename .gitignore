@@ -4,3 +4,4 @@ web.pid
 backend/tmp
 backend/test/mysql/mysql
 webserver
+admin.db
